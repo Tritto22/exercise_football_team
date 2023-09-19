@@ -1,2 +1,0 @@
-module fibonacci_exercise {
-}
